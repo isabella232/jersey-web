@@ -73,7 +73,7 @@
 
             <!-- Comment this out for local development. -->
             <!-- TODO uncomment before final site generation, comment our for local testing -->
-            <absoluteResourceURL>https://jersey.java.net</absoluteResourceURL>
+            <absoluteResourceURL>https://jersey.github.io</absoluteResourceURL>
 
             <!-- Brand on the top menu bar -->
             <brand>
@@ -116,10 +116,10 @@
             <bottomDescription quote="false">
                 <![CDATA[
                     <center>
-                        <a href="https://glassfish.java.net" style="border:0; display:block">
+                        <a href="https://glassfish.github.io" style="border:0; display:block">
                             <img src="images/glassfish_logo.png" style="width:200px; margin-bottom:20px;">
                         </a>
-                        Jersey is member of <a href="https://glassfish.java.net">GlassFish</a> project.
+                        Jersey is member of <a href="https://glassfish.github.io">GlassFish</a> project.
                     </center>
                 ]]>
             </bottomDescription>
@@ -139,8 +139,8 @@
                     <bottomDescription>
                         <![CDATA[
                         <p class="reference">
-                            Member of <a href="http://glassfish.java.net/">GlassFish</a> Project
-                            <a href="http://glassfish.java.net/">
+                            Member of <a href="https://glassfish.github.io/">GlassFish</a> Project
+                            <a href="https://glassfish.github.io/">
                                 <img class="reference" src="images/glassfish-logo-small.png" alt="World's first Java EE 7 Application Server"/>
                             </a>
                         </p>
@@ -231,11 +231,11 @@
             <item name="Get latest Jersey" href="download.html" />
         </menu>
         <menu name="Documentation">
-            <item name="User Guide" href="https://jersey.java.net/documentation/latest/index.html" collapse="true">
-                <item name="Getting Started" href="https://jersey.java.net/documentation/latest/getting-started.html" />
-                <item name="Modules and Dependencies" href="https://jersey.java.net/documentation/latest/modules-and-dependencies.html" />
+            <item name="User Guide" href="https://jersey.github.io/documentation/latest/index.html" collapse="true">
+                <item name="Getting Started" href="https://jersey.github.io/documentation/latest/getting-started.html" />
+                <item name="Modules and Dependencies" href="https://jersey.github.io/documentation/latest/modules-and-dependencies.html" />
             </item>
-            <item name="API javadoc" href="https://jersey.java.net/apidocs/latest/jersey/index.html" />
+            <item name="API javadoc" href="https://jersey.github.io/apidocs/latest/jersey/index.html" />
         </menu>
         <menu name="Follow">
             <item name="Twitter" href="https://twitter.com/gf_jersey" />
@@ -247,7 +247,7 @@
         </menu>
         <menu name="Project Info">
             <item name="Source Control" href="scm.html" />
-            <item name="Issue Tracking" href="https://java.net/jira/browse/JERSEY/" />
+            <item name="Issue Tracking" href="https://github.com/jersey/jersey/issues" />
             <item name="Mailing Lists" href="mailing.html" />
             <item name="Project Team" href="team-list.html" />
             <item name="Release Notes" href="release-notes/index.html" />

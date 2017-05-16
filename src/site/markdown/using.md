@@ -27,7 +27,7 @@ alphabetical order):
 If you'd like to have your organization or project listed in this page, drop us a line on our
 [mailing lists][mail]
 
-[gf]: http://glassfish.java.net/
+[gf]: http://glassfish.github.io/
 [wls]: http://www.oracle.com/technetwork/middleware/weblogic/overview/index.html
 [oracle]: http://www.oracle.com/us/products/index.html#menu-products-n-services
 
