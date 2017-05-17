@@ -56,13 +56,13 @@
         production quality Reference Implementation for building RESTful Web services.
     </description>
 
-    <url>https://jersey.java.net/</url>
+    <url>https://jersey.github.io/</url>
 
     <!-- prerequisites -->
 
     <issueManagement>
         <system>JIRA</system>
-        <url>http://java.net/jira/browse/JERSEY/</url>
+        <url>https://github.com/jersey/jersey/issues</url>
     </issueManagement>
 
     <ciManagement>
@@ -74,29 +74,10 @@
 
     <mailingLists>
         <mailingList>
-            <name>Announcements</name>
-            <archive>http://java.net/projects/jersey/lists/announce/archive</archive>
-            <post>announce@jersey.java.net</post>
-        </mailingList>
-        <mailingList>
             <name>Users List</name>
-            <archive>http://java.net/projects/jersey/lists/users/archive</archive>
-            <post>users@jersey.java.net</post>
-        </mailingList>
-        <mailingList>
-            <name>Developers List</name>
-            <archive>http://java.net/projects/jersey/lists/dev/archive</archive>
-            <post>dev@jersey.java.net</post>
-        </mailingList>
-        <mailingList>
-            <name>Issues</name>
-            <archive>http://java.net/projects/jersey/lists/issues/archive</archive>
-            <post>issues@jersey.java.net</post>
-        </mailingList>
-        <mailingList>
-            <name>Commits</name>
-            <archive>http://java.net/projects/jersey/lists/commits/archive</archive>
-            <post>commits@jersey.java.net</post>
+            <subscribe>jersey+subscribe@javaee.groups.io</subscribe>
+            <unsubscribe>jersey+unsubscribe@javaee.groups.io</unsubscribe>
+            <post>jersey@javaee.groups.io</post>
         </mailingList>
     </mailingLists>
 

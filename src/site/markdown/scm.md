@@ -304,7 +304,7 @@ In cases where the code bases are very similar, you can use
 [gpr]: https://help.github.com/articles/using-pull-requests
 [oca]: http://www.oracle.com/technetwork/community/oca-486395.html
 
-[jersey-jira]: http://java.net/jira/browse/JERSEY
+[jersey-jira]: https://github.com/jersey/jersey/issues
 [jersey-examples]: https://github.com/jersey/jersey/tree/master/examples/
 [jersey2gh]: http://github.com/jersey/jersey/
 [jug-sources]: https://github.com/jersey/jersey/tree/master/docs/src/main/docbook/

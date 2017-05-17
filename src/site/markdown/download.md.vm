@@ -50,10 +50,10 @@ the following links are provided:
 
 [zip-1.x]: http://repo1.maven.org/maven2/com/sun/jersey/jersey-archive/1.19.1/jersey-archive-1.19.1.zip
 [jar-1.x]: http://repo1.maven.org/maven2/com/sun/jersey/jersey-bundle/1.19.1/jersey-bundle-1.19.1.jar
-[deps-1.x]: https://jersey.java.net/documentation/1.19.1/chapter_deps.html
+[deps-1.x]: https://jersey.github.io/documentation/1.19.1/chapter_deps.html
 
 [jaxrs-2.0]: http://jax-rs-spec.java.net/
 [zip-2.x]: http://repo1.maven.org/maven2/org/glassfish/jersey/bundles/jaxrs-ri/${latestVersion}/jaxrs-ri-${latestVersion}.zip
 [examples-2.x]: http://repo1.maven.org/maven2/org/glassfish/jersey/bundles/jersey-examples/${latestVersion}/jersey-examples-${latestVersion}-all.zip
-[deps-2.x]: https://jersey.java.net/documentation/latest/modules-and-dependencies.html
-[rn-2.x]: https://jersey.java.net/release-notes/${latestVersion}.html
+[deps-2.x]: https://jersey.github.io/documentation/latest/modules-and-dependencies.html
+[rn-2.x]: https://jersey.github.io/release-notes/${latestVersion}.html

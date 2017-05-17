@@ -2,7 +2,7 @@
 
 ---
 
-<h2><a class="headerlink" href="http://java.net/jira/browse/JERSEY">
+<h2><a class="headerlink" href="https://github.com/jersey/jersey/issues">
     <var class="icon-bug"></var> Report Issues
 </a></h2>
 
@@ -20,7 +20,7 @@ already, and link a [gist][gist] containing your patch with details on what you\
 and how you\'ve resolving it. Or simply open a new [GitHub pull request][gpr].
 
 
-<h2><a class="headerlink" href="https://jersey.java.net/documentation/latest/index.html">
+<h2><a class="headerlink" href="https://jersey.github.io/documentation/latest/index.html">
     <var class="icon-pencil"></var> Documentation
 </a></h2>
 
@@ -57,7 +57,7 @@ Join our [mailing lists][list] or follow the questions tagged with `jersey` on
 
 
 [stack]: http://stackoverflow.com/questions/tagged/jersey
-[jersey-jira]: http://java.net/jira/browse/JERSEY
+[jersey-jira]: https://github.com/jersey/jersey/issues
 [gist]: https://gist.github.com/
 [gpr]: https://help.github.com/articles/using-pull-requests
 
