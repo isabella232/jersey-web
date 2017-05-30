@@ -1,4 +1,7 @@
-<h3>JAX-RS 2.1 / Jersey 2.26+</h3>
+<h3>JAX-RS 2.1 milestone builds / Jersey 2.26+</h3>
+
+<b>Please note that JAX-RS 2.1 is not final yet. JAX-RS 2.1 might change, there is no backwards compatibility
+requirement to keep among 2.26-bXX builds. Use at your own risk.</b>
 
 Jersey&nbsp;${latestVersion}, that implements [JAX-RS 2.1 API][jaxrs-2.1] API is the most recent release of Jersey.
 To see the details about all changes, bug fixed and updates, please check the [Jersey ${latestVersion} Release Notes][rn-2.x].
@@ -34,7 +37,7 @@ mvn archetype:generate -DarchetypeGroupId=org.glassfish.jersey.archetypes \
 
 Maven users may also be interested in the list of all [Jersey 2 modules and dependencies][deps-2.x]
 
-<h3>JAX-RS 2.0 / Jersey 2.25.1</h3>
+<h3>JAX-RS 2.0 / Jersey 2.25.x</h3>
 
 Jersey&nbsp;2.25.1 is the most recent release of Jersey which implements [JAX-RS 2.0 API][jaxrs-2.0] API.
 To see the details about all changes, bug fixed and updates, please check the [Jersey 2.25.1 Release Notes][rn-2.25.x].
