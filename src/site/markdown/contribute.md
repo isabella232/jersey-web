@@ -8,7 +8,7 @@
 
 Issue reporting is central to open-source projects. If an issue is not reported,
 we cannot fix it. Please report any bugs, feature, and/or improvement requests in our
-[Jersey JIRA][jersey-jira] issue tracker.
+[issue tracker][jersey-jira].
 
 
 <h2><a class="headerlink" href="scm.html">
