@@ -94,11 +94,6 @@
             <organizationUrl>http://www.oracle.com/</organizationUrl>
         </developer>
         <developer>
-            <name>Petr Janouch</name>
-            <organization>Oracle Corporation</organization>
-            <organizationUrl>http://www.oracle.com/</organizationUrl>
-        </developer>
-        <developer>
             <name>Libor Kramolis</name>
             <url>http://yatel.kramolis.cz/</url>
             <organization>Oracle Corporation</organization>
@@ -106,11 +101,6 @@
         </developer>
         <developer>
             <name>Adam Lindenthal</name>
-            <organization>Oracle Corporation</organization>
-            <organizationUrl>http://www.oracle.com/</organizationUrl>
-        </developer>
-        <developer>
-            <name>Petr Bouda</name>
             <organization>Oracle Corporation</organization>
             <organizationUrl>http://www.oracle.com/</organizationUrl>
         </developer>
@@ -147,6 +137,12 @@
         <contributor>
             <name>Jakub Podlesak</name>
             <url>http://blogs.oracle.com/japod/</url>
+        </contributor>
+        <contributor>
+            <name>Petr Janouch</name>
+        </contributor>
+        <contributor>
+            <name>Petr Bouda</name>
         </contributor>
     </contributors>
 
